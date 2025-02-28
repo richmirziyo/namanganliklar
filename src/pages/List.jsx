@@ -47,7 +47,7 @@ function List() {
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list3.png" alt="" />
+              <img src="../public/list3.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   Halo Infinite сравнили на Xbox One, Xbox One X, Xbox Series S
@@ -65,7 +65,7 @@ function List() {
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list4.png" alt="" />
+              <img src="../public/list4.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   В Узбекистане показали тюнинговые варианты моделей Lacetti,
@@ -77,13 +77,13 @@ function List() {
                   делаете двухцветные автомобили? Этот вопрос был...
                 </p>
                 <div className="one_card__imgvp">
-                  <img src="./public/list_4.png" alt="" />
+                  <img src="../public/list_4.png" alt="" />
                   <p className="one_card__p">Sputnik Узбекистан 18:43</p>
                 </div>
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list5.png" alt="" />
+              <img src="../public/list5.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   Время автономной работы iPhone 13 Pro Max стало рекордным для
@@ -95,13 +95,13 @@ function List() {
                   сентября, а 24 сентября новинка появилась в магазинах.
                 </p>
                 <div className="one_card__imgvp">
-                  <img src="./public/list_5.png" alt="" />
+                  <img src="../public/list_5.png" alt="" />
                   <p className="one_card__p">iReactor 12:25</p>
                 </div>
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list6.png" alt="" />
+              <img src="../public/list6.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   Криптобиржа Huobi закрыла регистрацию пользователей из Китая
@@ -112,13 +112,13 @@ function List() {
                   Центробанк назвал нелегальными все транзакции...
                 </p>
                 <div className="one_card__imgvp">
-                  <img src="./public/list_6.png" alt="" />
+                  <img src="../public/list_6.png" alt="" />
                   <p className="one_card__p">Компания 11:35</p>
                 </div>
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list7.png" alt="" />
+              <img src="../public/list7.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   В Узбекистане пройдет международный конкурс молодых
@@ -130,13 +130,13 @@ function List() {
                   рамках Ташкентского Международного...
                 </p>
                 <div className="one_card__imgvp">
-                  <img src="./public/list_7.png" alt="" />
+                  <img src="../public/list_7.png" alt="" />
                   <p className="one_card__p">Фергана 15:44</p>
                 </div>
               </div>
             </div>
             <div className="two_items qwert">
-              <img src="./public/list8.png" alt="" />
+              <img src="../public/list8.png" alt="" />
               <div>
                 <h2 className="two_items_heading">
                   Илон Маск принял участие во Всемирной сетевой конференции в
@@ -148,7 +148,7 @@ function List() {
                   китайским правящим кругам и гражданам.
                 </p>
                 <div className="one_card__imgvp">
-                  <img src="./public/two_small4.png" alt="" />
+                  <img src="../public/two_small4.png" alt="" />
                   <p className="one_card__p">FBM.ru 22:23</p>
                 </div>
               </div>
@@ -181,7 +181,7 @@ function List() {
             </h3>
             <p className="right_card_paragraph">Sputnik Узбекистан 14:32</p>
             <div>
-              <img className="olmos_img" src="./public/listOlmos.png" alt="" />
+              <img className="olmos_img" src="../public/listOlmos.png" alt="" />
             </div>
           </div>
         </div>
