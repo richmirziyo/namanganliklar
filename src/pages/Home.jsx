@@ -9,7 +9,7 @@ function Home() {
         <img
           className="main_img"
           width={1310}
-          src="./public/optimize.png"
+          src="../public/optimize.png"
           alt=""
         />
         <section className="one">
@@ -22,9 +22,9 @@ function Home() {
               Лидер Социал-демократической партии Германии (СДПГ) и кандидат на
               должность...
             </p>
-            <img src="./public/germany.png" alt="" width={359} height={165} />
+            <img src="../public/germany.png" alt="" width={359} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/1-card.png" alt="" />
+              <img src="../public/1-card.png" alt="" />
               <p className="one_card__p">ИА Красная Весна 15:55</p>
             </div>
           </div>
@@ -36,9 +36,9 @@ function Home() {
               Новое исследование ученых университета Иллинойса объединяет
               полевые данные...
             </p>
-            <img src="./public/card2.png" alt="" width={360} height={165} />
+            <img src="../public/card2.png" alt="" width={360} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/2-card.png" alt="" />
+              <img src="../public/2-card.png" alt="" />
               <p className="one_card__p">Газета.Ru 12:54</p>
             </div>
           </div>
@@ -50,9 +50,9 @@ function Home() {
             <p className="one_card__paragraph">
               Автопарк Baidu состоит из модифицированных электромобилей EV...
             </p>
-            <img src="./public/card3.png" alt="" width={359} height={165} />
+            <img src="../public/card3.png" alt="" width={359} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/3-card.png" alt="" />
+              <img src="../public/3-card.png" alt="" />
               <p className="one_card__p">Хайтек+ 13:44</p>
             </div>
           </div>
@@ -66,9 +66,9 @@ function Home() {
             <p className="one_card__paragraph">
               Во время презентации iPhone 13 Apple придала большое значения...
             </p>
-            <img src="./public/card4.png" alt="" width={359} height={165} />
+            <img src="../public/card4.png" alt="" width={359} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/4-card.png" alt="" />
+              <img src="../public/4-card.png" alt="" />
               <p className="one_card__p">Digger.ru 14:25</p>
             </div>
           </div>
@@ -80,9 +80,9 @@ function Home() {
             <p className="one_card__paragraph">
               Во время презентации iPhone 13 Apple придала большое значения...
             </p>
-            <img src="./public/card5.png" alt="" width={360} height={165} />
+            <img src="../public/card5.png" alt="" width={360} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/5-card.png" alt="" />
+              <img src="../public/5-card.png" alt="" />
               <p className="one_card__p">Lenta.ru 10:54</p>
             </div>
           </div>
@@ -95,9 +95,9 @@ function Home() {
               Две модели китайского бренда JAC из пяти, представленных на
               российском...
             </p>
-            <img src="./public/card6.png" alt="" width={359} height={165} />
+            <img src="../public/card6.png" alt="" width={359} height={165} />
             <div className="one_card__imgvp">
-              <img src="./public/6-card.png" alt="" />
+              <img src="../public/6-card.png" alt="" />
               <p className="one_card__p">Тарантас Ньюс 10:44</p>
             </div>
           </div>
@@ -116,7 +116,7 @@ function Home() {
             <div className="left_right_wrapper">
               <div className="left_card">
                 <div className="two_items">
-                  <img src="./public/two1.png" alt="" />
+                  <img src="../public/two1.png" alt="" />
                   <div>
                     <h2 className="two_items_heading">
                       Китайский Чунцин запустил чартерный рейс для студентов до
@@ -128,13 +128,13 @@ function Home() {
                       в британский Манчестер...
                     </p>
                     <div className="one_card__imgvp">
-                      <img src="./public/1-card.png" alt="" />
+                      <img src="../public/1-card.png" alt="" />
                       <p className="one_card__p">ИА Красная Весна 15:55</p>
                     </div>
                   </div>
                 </div>
                 <div className="two_items qwert">
-                  <img src="./public/two2.png" alt="" />
+                  <img src="../public/two2.png" alt="" />
                   <div>
                     <h2 className="two_items_heading">
                       В Германии выпустят ограниченную партию плюшевых мишек в
@@ -146,13 +146,13 @@ function Home() {
                       земля Бавария) изготовила уникального...
                     </p>
                     <div className="one_card__imgvp">
-                      <img src="./public/two_small2.png" alt="" />
+                      <img src="../public/two_small2.png" alt="" />
                       <p className="one_card__p">ТАСС 11:35</p>
                     </div>
                   </div>
                 </div>
                 <div className="two_items qwert">
-                  <img src="./public/two3.png" alt="" />
+                  <img src="../public/two3.png" alt="" />
                   <div>
                     <h2 className="two_items_heading">
                       Акции КНР утратили доверие инвесторов. Что делать с
@@ -164,13 +164,13 @@ function Home() {
                       технологического сектора и критики некоторых...
                     </p>
                     <div className="one_card__imgvp">
-                      <img src="./public/two_small3.png" alt="" />
+                      <img src="../public/two_small3.png" alt="" />
                       <p className="one_card__p">РБК Инвестиции 09:35</p>
                     </div>
                   </div>
                 </div>
                 <div className="two_items qwert">
-                  <img src="./public/two4.png" alt="" />
+                  <img src="../public/two4.png" alt="" />
                   <div>
                     <h2 className="two_items_heading">
                       Китай раскритиковал заключенный Австралией, США и
@@ -183,7 +183,7 @@ function Home() {
                       Anna-News.info
                     </p>
                     <div className="one_card__imgvp">
-                      <img src="./public/two_small4.png" alt="" />
+                      <img src="../public/two_small4.png" alt="" />
                       <p className="one_card__p">Solenka.info 19:43</p>
                     </div>
                   </div>
@@ -217,7 +217,7 @@ function Home() {
                 <div>
                   <img
                     className="olmos_img"
-                    src="./public/two_olmos_img.png"
+                    src="../public/two_olmos_img.png"
                     alt=""
                     width={393}
                     height={338}
